@@ -32,6 +32,7 @@ images:
 - doc/html/PICPGR3_WindowsXP_files/WinPic_Options.png
 - hw/cam_doc/O1.png
 mark: 50
+status: 0
 tags:
 - mlab
 - mlab-module
