@@ -1,4 +1,7 @@
-description: null
+description: The programmer uses LPT port of PC and contains 5V voltage regulator
+  so it can be used for powering target application. The programmer has tree state
+  outputs and that is why it is not necessary to disconnect it from target application
+  while debugging.
 github_branch: PICPGR301A
 github_repo: PICPGR301
 github_url: https://github.com/mlab-modules/PICPGR301
